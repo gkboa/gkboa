@@ -94,7 +94,6 @@
 
 ## 🎒 Образование
 [<img src="/025f09cc136.png" width="280px" hspace="10px" alt="Сертификат о прохождении базового курса обучения профессии»">](https://github.com/gkboa/gkboa/blob/main/025f09cc136.png)
-[<img src="/Letter12.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter12.png)
 
 <br>
 <br>
